@@ -1,5 +1,5 @@
 # Code
-Programma semplice che funziona con le code in C/C++
+Programma semplice che funziona con le code in C/C++, utilizzando come esempio un record di prodotto con i rispettivi ID.
 
 
 # Menu principale
